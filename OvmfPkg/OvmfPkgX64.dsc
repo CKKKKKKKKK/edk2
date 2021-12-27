@@ -675,6 +675,8 @@
 ################################################################################
 [Components]
   OvmfPkg/ResetVector/ResetVector.inf
+  StartImage/StartImage.inf
+  HelloWorld/HelloWorld.inf
 
   #
   # SEC Phase modules
